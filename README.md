@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img title="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=18F7B5&center=true&vCenter=true&height=70&lines=~%24+docker-compose+up+dev-carreer"/>
+        <img title="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=18F7B5&center=true&vCenter=true&height=20&lines=~%24+docker+exec+dev+.%2Fupdate"/>
     </a>
 </p>
 <p align="center">

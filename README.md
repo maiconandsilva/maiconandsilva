@@ -1,7 +1,7 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="Typing SVG: ~$ docker exec dev ./update" title="~$ docker exec dev ./update" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=18F7B5&center=true&vCenter=true&height=20&lines=~%24+docker+exec+dev+.%2Fupdate"/>
+        <img alt="Typing SVG: ~$ docker exec dev ./update" title="~$ docker exec dev ./update" src="/assets/readme-typing-svg.herokuapp.com.svg"/>
     </a>
 </p>
 

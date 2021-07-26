@@ -3,11 +3,11 @@
 </p> -->
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/maiconandsilva/npx-card-maiconandsilva#readme">
         <img alt="Typing SVG: ~$ docker exec dev ./update" title="~$ docker exec dev ./update" src="/assets/readme-typing-svg.herokuapp.com.svg"/>
     </a>
-</p>
+</p> -->
 
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <p align="center">

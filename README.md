@@ -1,6 +1,6 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-    <a href="https://git.io/typing-svg">
+    <a href="https://github.com/maiconandsilva/npx-card-maiconandsilva#readme">
         <img alt="Typing SVG: ~$ docker exec dev ./update" title="~$ docker exec dev ./update" src="/assets/readme-typing-svg.herokuapp.com.svg"/>
     </a>
 </p>

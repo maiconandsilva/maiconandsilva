@@ -12,7 +12,7 @@
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <p align="center">
   <a href="https://github.com/maiconandsilva-archive">
-    <img alt="My Github code archive" title="Code Archive" src="https://img.shields.io/badge/ARCHIVE-000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="My Github code archive" title="Code Archive" src="https://img.shields.io/badge/CODE_ARCHIVE-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/maiconandsilva">
     <img alt="Linkedin profile" title="Follow me on Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
